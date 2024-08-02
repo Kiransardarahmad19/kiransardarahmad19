@@ -3,19 +3,17 @@
 </div>  
   
 
-### <div align="center">I'm Kiran, a full-time AI developer 👨‍💻 working remotely since 2023 🚀</div>  
+### <div align="center">I'm Kiran, an AI Engineer with interest in Android App Development, Machine Learning and Computer Vision👨‍💻 working remotely since 2022 🚀</div>  
+  
   
 
-- 🔭 I’m currently working on a virtual try on App  
-  
-
-- 🌱 I’m currently learning Openpose, a ML library  
+- 🌱 I’m currently learning about Generative AI 
   
 
 - ❓ Ask me about anything related to Computer Vision, AI and Machine Learning   
   
 
-- ⚡ Fun fact: I am a poet too  
+- ⚡ Fun fact: I am a aspiring poet too  
   
 
 <br/>  
@@ -108,36 +106,3 @@
 <br/>  
 
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=kiransardarahmad19&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-
-## Recent Blog Posts  
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=kiransardarahmad19&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
-<div align="center">
-            <a href="https://www.buymeacoffee.com/rishavanand" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
-                    align="center"
-                />
-            </a></div>
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
