@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Kiran, an AI Engineer with interest in Android App Development, Machine Learning and Computer Vision👨‍💻 working remotely since 2022 🚀</div>  
+### <div align="center">I'm Kiran, Computer Science Graduate👨‍💻 working remotely since 2022 🚀</div>  
   
   
 
