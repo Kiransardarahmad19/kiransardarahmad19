@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Kiran, I'm an AI Engineer👨‍💻</div>  
+### <div align="center">Hi, I'm Kiran! I am an AI Engineer working remotely since 2023👨‍💻</div>  
 
 
 <br/>  
