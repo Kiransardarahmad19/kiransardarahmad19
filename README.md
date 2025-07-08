@@ -3,18 +3,8 @@
 </div>  
   
 
-### <div align="center">I'm Kiran, Computer Science Graduate👨‍💻 working remotely since 2022 🚀</div>  
-  
-  
+### <div align="center">I'm Kiran, I'm an AI Engineer👨‍💻</div>  
 
-- 🌱 I’m currently learning about Generative AI 
-  
-
-- ❓ Ask me about anything related to Computer Vision, AI and Machine Learning   
-  
-
-- ⚡ Fun fact: I am a aspiring poet too  
-  
 
 <br/>  
 
@@ -85,9 +75,6 @@
 <a href="https://github.com/kiransardarahmad19" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/kiranandtech" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
 </div>  
   
 
